@@ -24,7 +24,7 @@ export CFLAGS LDFLAGS
 TOPDIR := $(shell pwd)
 export TOPDIR
 
-TARGET := digitpic
+TARGET := digitpic_8.5.5_5
 
 
 obj-y += main.o

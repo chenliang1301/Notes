@@ -4,7 +4,7 @@
 #include <arpa/inet.h>
 
 
-#define IPADDR	"192.168.1.102"
+#define IPADDR	"192.168.31.185"
 
 // 0x66		01	a8		c0
 // 102		1	168		192

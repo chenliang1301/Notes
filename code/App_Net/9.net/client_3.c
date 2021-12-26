@@ -6,7 +6,7 @@
 #include <string.h>
 
 
-#define SERADDR		"192.168.1.141"		// 服务器开放给我们的IP地址和端口号
+#define SERADDR		"192.168.31.185"		// 服务器开放给我们的IP地址和端口号
 #define SERPORT		9003
 
 

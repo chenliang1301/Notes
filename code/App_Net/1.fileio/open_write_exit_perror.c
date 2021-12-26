@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 	
 	// 第一步：打开文件
 	//fd = open("a.txt", O_RDWR | O_CREAT | O_EXCL, 0666);
-	fd = open("a.txt", O_RDONLY);
+	fd = open("a.txt", O_CREAT | O_RDWR, S_IRWXU | S_IRWXG);
 	if (-1 == fd)		// 有时候也写成： (fd < 0)
 	{
 		//printf("\n");

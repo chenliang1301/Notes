@@ -7,7 +7,7 @@
 
 
 #define SERPORT		9003
-#define SERADDR		"192.168.129.128"		// ifconfig看到的
+#define SERADDR		"192.168.31.185"		// ifconfig看到的
 #define BACKLOG		100
 
 

@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 
 
-#define SERADDR		"192.168.129.128"		// 服务器开放给我们的IP地址和端口号
+#define SERADDR		"127.0.0.1"		// 服务器开放给我们的IP地址和端口号
 #define SERPORT		9003
 
 

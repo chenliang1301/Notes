@@ -18,8 +18,8 @@ int main(void)
 {
 	sighandler_t ret = (sighandler_t)-2;
 	//signal(SIGINT, func);
-	//signal(SIGINT, SIG_DFL);		// 指定信号SIGINT为默认处理
-	ret = signal(SIGINT, SIG_IGN);		// 指定信号SIGINT为忽略处理
+	ret = signal(SIGINT, SIG_DFL);		// 指定信号SIGINT为默认处理
+	// ret = signal(SIGINT, SIG_IGN);		// 指定信号SIGINT为忽略处理
 	if (SIG_ERR == ret)
 	{
 		perror("signal:");

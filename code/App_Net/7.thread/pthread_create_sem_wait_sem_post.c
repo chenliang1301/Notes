@@ -43,7 +43,7 @@ int main(void)
 	if (ret != 0)
 	{
 		printf("pthread_create error.\n");
-		exit(-1);
+		exit(1);
 	}
 	
 	printf("输入一个字符串，以回车结束\n");
