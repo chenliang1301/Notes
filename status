@@ -1,0 +1,347 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    C_CPP/C&C++/C C++ const.md
+	deleted:    C_CPP/C&C++/C++ 中字符串类循环右移 - 函数-重载操作符.md
+	deleted:    C_CPP/C&C++/C++中的类型识别.md
+	deleted:    C_CPP/C&C++/C++基础.md
+	deleted:    C_CPP/C&C++/C++异常处理.md
+	deleted:    C_CPP/C&C++/C++异常处理下.md
+	deleted:    C_CPP/C&C++/C++新成员.md
+	deleted:    C_CPP/C&C++/C++标准库.md
+	deleted:    C_CPP/C&C++/C++知识点总结.md
+	deleted:    C_CPP/C&C++/C知识点框架总结.md
+	deleted:    C_CPP/C&C++/C语言内存的理解.md
+	deleted:    C_CPP/C&C++/C语言异常处理.md
+	deleted:    C_CPP/C&C++/C语言部分知识总结.md
+	deleted:    C_CPP/C&C++/bool类型 引用.md
+	deleted:    C_CPP/C&C++/const and volatile.md
+	deleted:    C_CPP/C&C++/const 只读变量or常量.md
+	deleted:    C_CPP/C&C++/sizeof与strlen.md
+	deleted:    C_CPP/C&C++/不同的继承方式.md
+	deleted:    C_CPP/C&C++/临时对象.md
+	deleted:    C_CPP/C&C++/二阶构造模式-- 工程设计方法.md
+	deleted:    C_CPP/C&C++/以分号分割反转字符串_作业.md
+	deleted:    C_CPP/C&C++/共用体union.md
+	deleted:    C_CPP/C&C++/内联函数.md
+	deleted:    C_CPP/C&C++/函数参数扩展.md
+	deleted:    C_CPP/C&C++/函数模板的概念和意义.md
+	deleted:    C_CPP/C&C++/函数重载.md
+	deleted:    C_CPP/C&C++/初始化列表.md
+	deleted:    C_CPP/C&C++/单例类模板.md
+	deleted:    C_CPP/C&C++/单链表.md
+	deleted:    C_CPP/C&C++/友元的尴尬.md
+	deleted:    C_CPP/C&C++/同名覆盖引发的问题.md
+	deleted:    C_CPP/C&C++/多态_虚函数_重写.md
+	deleted:    C_CPP/C&C++/多重继承虚继承.md
+	deleted:    C_CPP/C&C++/字符串函数总结.md
+	deleted:    C_CPP/C&C++/字符串常用函数总结.md
+	deleted:    C_CPP/C&C++/完善复数类.md
+	deleted:    C_CPP/C&C++/对象创建于析构顺序及const对象，成员函数.md
+	deleted:    C_CPP/C&C++/对象构造.md
+	deleted:    C_CPP/C&C++/对象构造顺序.md
+	deleted:    C_CPP/C&C++/对象的销毁.md
+	deleted:    C_CPP/C&C++/引用的本质（汇编：指针常量的实现）.md
+	deleted:    C_CPP/C&C++/抽象类和接口.md
+	deleted:    C_CPP/C&C++/操作符重载的概念.md
+	deleted:    C_CPP/C&C++/数据库增删改查.md
+	deleted:    C_CPP/C&C++/数组指针与指针数组.md
+	deleted:    C_CPP/C&C++/数组操作符的重载.md
+	deleted:    C_CPP/C&C++/数组类模板.md
+	deleted:    C_CPP/C&C++/新型类型装换.md
+	deleted:    C_CPP/C&C++/智能指针--问如何实现.md
+	deleted:    C_CPP/C&C++/智能指针类模板.md
+	deleted:    C_CPP/C&C++/枚举.md
+	deleted:    C_CPP/C&C++/栈、堆、代码段、数据段、bss段.md
+	deleted:    C_CPP/C&C++/死锁初步理解.md
+	deleted:    C_CPP/C&C++/深入理解函数模板.md
+	deleted:    C_CPP/C&C++/父子间的冲突.md
+	deleted:    C_CPP/C&C++/类函数重载.md
+	deleted:    C_CPP/C&C++/类和封装.md
+	deleted:    C_CPP/C&C++/类型转换函数.md
+	deleted:    C_CPP/C&C++/类对象在内存布局、多态实现原理.md
+	deleted:    C_CPP/C&C++/类成员的作用域.md
+	deleted:    C_CPP/C&C++/类模板深度分析 多参数 重定义 特化.md
+	deleted:    C_CPP/C&C++/类模板的概念和意义.md
+	deleted:    C_CPP/C&C++/类的真正形态.md
+	deleted:    C_CPP/C&C++/类的静态成员函数.md
+	deleted:    C_CPP/C&C++/类的静态成员变量.md
+	deleted:    C_CPP/C&C++/经典问题分析五 变量是不是指针 构造析构函数抛出异常.md
+	deleted:    C_CPP/C&C++/经典问题四 之new malloc delete free.md
+	deleted:    C_CPP/C&C++/经典问题四 之强制类型转换.md
+	deleted:    C_CPP/C&C++/经典问题四 之构造、析构、虚函数.md
+	deleted:    C_CPP/C&C++/结构体四字节对齐.md
+	deleted:    C_CPP/C&C++/继承中的访问级别__建议自己实现.md
+	deleted:    C_CPP/C&C++/继承当中的构造与析构.md
+	deleted:    C_CPP/C&C++/继承的概念和意义.md
+	deleted:    C_CPP/C&C++/递归模型和边界.md
+	deleted:    C_CPP/C&C++/逻辑操作符.md
+	deleted:    C_CPP/C&C++/面向对象.md
+	deleted:    C_CPP/C&C++/预处理（未完ing）.md
+	deleted:    C_CPP/C++ Primer Plus/1-程序设计概述.md
+	deleted:    C_CPP/C++ Primer Plus/2-程序设计语言的组成.md
+	deleted:    C_CPP/C语言高级专题/4 1 内存这个大话题.md
+	deleted:    C_CPP/C语言高级专题/4 2常用位操作符.md
+	deleted:    C_CPP/C语言高级专题/4 3 指针才是C的精髓.md
+	deleted:    C_CPP/C语言高级专题/4 5 .md
+	deleted:    C_CPP/C语言高级专题/4 9 多线程简介.md
+	deleted:    C_CPP/c语言进阶剖析教程/sizeof && strlen.md
+	deleted:    C_CPP/c语言进阶剖析教程/第10课-struct and union .md
+	deleted:    C_CPP/c语言进阶剖析教程/第11课-enum、sizeof、typedef分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第12课-注释.md
+	deleted:    C_CPP/c语言进阶剖析教程/第13课-反斜杠（ ）接续符、转义符.md
+	deleted:    C_CPP/c语言进阶剖析教程/第14课-单引号和双引号.md
+	deleted:    C_CPP/c语言进阶剖析教程/第15课-逻辑运算符分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第16课-位运算符分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第17课-“++”和“- -” .md
+	deleted:    C_CPP/c语言进阶剖析教程/第18课-三目运算符与逗号表达式.md
+	deleted:    C_CPP/c语言进阶剖析教程/第19课-编译过程简介.md
+	deleted:    C_CPP/c语言进阶剖析教程/第1课-基本数据类型.md
+	deleted:    C_CPP/c语言进阶剖析教程/第2-有符号与无符号.md
+	deleted:    C_CPP/c语言进阶剖析教程/第20课-链接过程.md
+	deleted:    C_CPP/c语言进阶剖析教程/第21课-定义宏常量.md
+	deleted:    C_CPP/c语言进阶剖析教程/第22课-条件编译使用分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第23课-#error和#line使用分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第24课-#pragram使用分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第25课-#和##操作符使用分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第26课-指针的本质分析.md
+	deleted:    C_CPP/c语言进阶剖析教程/第27课-数组的本质 .md
+	deleted:    C_CPP/c语言进阶剖析教程/第28课-数组和指针.md
+	deleted:    C_CPP/c语言进阶剖析教程/第29课-指针和数组分析下.md
+	deleted:    C_CPP/c语言进阶剖析教程/第3课-浮点数的秘密.md
+	deleted:    C_CPP/c语言进阶剖析教程/第4课-类型转换.md
+	deleted:    C_CPP/c语言进阶剖析教程/第5课-变量的属性.md
+	deleted:    C_CPP/c语言进阶剖析教程/第9课-const and volatile.md
+	modified:   README.md
+	deleted:    code/App_Net/.vscode/sftp.json
+	deleted:    code/App_Net/1.fileio/1.txt
+	deleted:    code/App_Net/1.fileio/123.txt
+	deleted:    code/App_Net/1.fileio/2.txt
+	deleted:    code/App_Net/1.fileio/Makefile
+	deleted:    code/App_Net/1.fileio/a.out
+	deleted:    code/App_Net/1.fileio/a.txt
+	deleted:    code/App_Net/1.fileio/cal_len_open_lseek.c
+	deleted:    code/App_Net/1.fileio/file.c
+	deleted:    code/App_Net/1.fileio/fopen_fread.c
+	deleted:    code/App_Net/1.fileio/fopen_fwrite.c
+	deleted:    code/App_Net/1.fileio/kongdong_open_lseek_write_read.c
+	deleted:    code/App_Net/1.fileio/open_dup.c
+	deleted:    code/App_Net/1.fileio/open_fcntl.c
+	deleted:    code/App_Net/1.fileio/open_lseek_read.c
+	deleted:    code/App_Net/1.fileio/open_read.c
+	deleted:    code/App_Net/1.fileio/open_write.c
+	deleted:    code/App_Net/1.fileio/open_write_exit.c
+	deleted:    code/App_Net/1.fileio/open_write_exit_perror.c
+	deleted:    code/App_Net/2.fileproperty/1.txt
+	deleted:    code/App_Net/2.fileproperty/3.txt
+	deleted:    code/App_Net/2.fileproperty/Makefile
+	deleted:    code/App_Net/2.fileproperty/a.out
+	deleted:    code/App_Net/2.fileproperty/access.c
+	deleted:    code/App_Net/2.fileproperty/chmod.c
+	deleted:    code/App_Net/2.fileproperty/open.c
+	deleted:    code/App_Net/2.fileproperty/readdir.c
+	deleted:    code/App_Net/2.fileproperty/stat.c
+	deleted:    code/App_Net/2.fileproperty/stat_filepropertyget.c
+	deleted:    code/App_Net/3.osinfo/Makefile
+	deleted:    code/App_Net/3.osinfo/a.out
+	deleted:    code/App_Net/3.osinfo/gmtime_r_localtime_r.c
+	deleted:    code/App_Net/3.osinfo/srand.c
+	deleted:    code/App_Net/3.osinfo/strcmp.c
+	deleted:    code/App_Net/3.osinfo/test.c
+	deleted:    code/App_Net/3.osinfo/time_gettimeofday.c
+	deleted:    code/App_Net/4.process/1.txt
+	deleted:    code/App_Net/4.process/Makefile
+	deleted:    code/App_Net/4.process/a.out
+	deleted:    code/App_Net/4.process/atexit.c
+	deleted:    code/App_Net/4.process/atexit_open_remove.c
+	deleted:    code/App_Net/4.process/environ.c
+	deleted:    code/App_Net/4.process/fork.c
+	deleted:    code/App_Net/4.process/fork_daemon.c
+	deleted:    code/App_Net/4.process/fork_open.c
+	deleted:    code/App_Net/4.process/fork_pid.c
+	deleted:    code/App_Net/4.process/fork_wait.c
+	deleted:    code/App_Net/4.process/fork_waitpid.c
+	deleted:    code/App_Net/4.process/getpid.c
+	deleted:    code/App_Net/4.process/getpid_syslog.c
+	deleted:    code/App_Net/4.process/hello
+	deleted:    code/App_Net/4.process/hello_argc.c
+	deleted:    code/App_Net/4.process/hello_env.c
+	deleted:    code/App_Net/4.process/ls
+	deleted:    code/App_Net/4.process/test.c
+	deleted:    code/App_Net/5.signal/Makefile
+	deleted:    code/App_Net/5.signal/a.out
+	deleted:    code/App_Net/5.signal/signal.c
+	deleted:    code/App_Net/5.signal/sleep_alarm.c
+	deleted:    code/App_Net/6.seniorIO/Makefile
+	deleted:    code/App_Net/6.seniorIO/a.out
+	deleted:    code/App_Net/6.seniorIO/mouse.c
+	deleted:    code/App_Net/6.seniorIO/mouse_fcntl.c
+	deleted:    code/App_Net/6.seniorIO/mouse_jianpan.c
+	deleted:    code/App_Net/6.seniorIO/poll.c
+	deleted:    code/App_Net/6.seniorIO/select.c
+	deleted:    code/App_Net/7.thread/Makefile
+	deleted:    code/App_Net/7.thread/fork.c
+	deleted:    code/App_Net/7.thread/pthread_create.c
+	deleted:    code/App_Net/7.thread/pthread_create_mutex_lock_unlock.c
+	deleted:    code/App_Net/7.thread/pthread_create_sem_wait_sem_post.c
+	deleted:    code/App_Net/7.thread/pthread_create_thread_function.c
+	deleted:    code/App_Net/7.thread/pthread_mutex_cond.c
+	deleted:    code/App_Net/9.net/Makefile
+	deleted:    code/App_Net/9.net/client_1.c
+	deleted:    code/App_Net/9.net/client_2.c
+	deleted:    code/App_Net/9.net/client_3.c
+	deleted:    code/App_Net/9.net/net_big_duan.c
+	deleted:    code/App_Net/9.net/server_1.c
+	deleted:    code/App_Net/9.net/server_2.c
+	deleted:    code/App_Net/9.net/server_3.c
+	deleted:    code/App_Net/a.out
+	deleted:    code/App_Net/readme.md
+	deleted:    code/digital_photo_frame_8.5.5_5/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/Makefile.build
+	deleted:    code/digital_photo_frame_8.5.5_5/debug/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/debug/debug_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/debug/netprint.c
+	deleted:    code/digital_photo_frame_8.5.5_5/debug/stdout.c
+	deleted:    code/digital_photo_frame_8.5.5_5/display/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/display/disp_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/display/fb.c
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/ascii.c
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/encoding_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/utf-16be.c
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/utf-16le.c
+	deleted:    code/digital_photo_frame_8.5.5_5/encoding/utf-8.c
+	deleted:    code/digital_photo_frame_8.5.5_5/file/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/file/file.c
+	deleted:    code/digital_photo_frame_8.5.5_5/fonts/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/fonts/ascii.c
+	deleted:    code/digital_photo_frame_8.5.5_5/fonts/fonts_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/fonts/freetype.c
+	deleted:    code/digital_photo_frame_8.5.5_5/fonts/gbk.c
+	deleted:    code/digital_photo_frame_8.5.5_5/include/config.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/debug_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/disp_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/encoding_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/file.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/fonts_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/input_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/page_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/pic_operation.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/picfmt_manager.h
+	deleted:    code/digital_photo_frame_8.5.5_5/include/render.h
+	deleted:    code/digital_photo_frame_8.5.5_5/input/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/input/input_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/input/stdin.c
+	deleted:    code/digital_photo_frame_8.5.5_5/input/touchscreen.c
+	deleted:    code/digital_photo_frame_8.5.5_5/log.txt
+	deleted:    code/digital_photo_frame_8.5.5_5/main.c
+	deleted:    code/digital_photo_frame_8.5.5_5/netprint_client.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/page/auto_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/browse_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/interval_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/main_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/manual_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/page_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/page/setting_page.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/render/format/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/render/format/bmp.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/format/jpg.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/format/picfmt_manager.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/operation/Makefile
+	deleted:    code/digital_photo_frame_8.5.5_5/render/operation/merge.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/operation/zoom.c
+	deleted:    code/digital_photo_frame_8.5.5_5/render/render.c
+	deleted:    code/digital_photo_frame_8.5.5_5/说明.txt
+	deleted:    data_strcture/Untitled Database.csv
+	deleted:    data_strcture/Untitled Databases/B+树.md
+	deleted:    data_strcture/Untitled Databases/B树.md
+	deleted:    data_strcture/Untitled Databases/二分.md
+	deleted:    data_strcture/Untitled Databases/二叉平衡搜索树.md
+	deleted:    data_strcture/Untitled Databases/红黑树.md
+	deleted:    data_strcture/data_strcture/Untitled Database.csv
+	deleted:    data_strcture/data_strcture/Untitled Databases/B+树.md
+	deleted:    data_strcture/data_strcture/Untitled Databases/B树.md
+	deleted:    data_strcture/data_strcture/Untitled Databases/二分.md
+	deleted:    data_strcture/data_strcture/Untitled Databases/二叉平衡搜索树.md
+	deleted:    data_strcture/data_strcture/Untitled Databases/红黑树.md
+	deleted:    data_strcture/data_strcture/day01_03-数据结构的基本概念.md
+	deleted:    data_strcture/day01_03-数据结构的基本概念.md
+	deleted:    data_strcture/二分查找.md
+	deleted:    data_strcture/冒泡排序.md
+	deleted:    data_strcture/哈希表.md
+	deleted:    data_strcture/堆排序.md
+	deleted:    data_strcture/归并排序.md
+	deleted:    data_strcture/快速排序.md
+	deleted:    data_strcture/排序.xlsx
+	deleted:    data_strcture/数据.md
+	deleted:    data_strcture/数据结构和排序.md
+	deleted:    data_strcture/旋转字符串--leetcode--草稿.md
+	deleted:    data_strcture/空间换时间.md
+	deleted:    data_strcture/荷兰国旗快排.md
+	deleted:    data_strcture/选择、冒泡、插入排序.md
+	deleted:    data_strcture/链接freetype和libjpeg库对文字和图片解码映射到LCD上显示.md
+	deleted:    data_strcture/链表基本操作.md
+	deleted:    data_strcture/链表栈.md
+	deleted:    data_strcture/链表队列.md
+	deleted:    data_strcture/队列链表--临时.md
+	deleted:    jz2440/Tslib编译使用方法.md
+	deleted:    jz2440/【衔接1,2】006_u-boot_内核_根文件系统(新1期_2期间的衔接) .md
+	deleted:    jz2440/【衔接1,2】006_u-boot_内核_根文件系统(新1期_2期间的衔接)/第001节_内核启动分析之编译体验.md
+	deleted:    jz2440/【衔接1,2】006_u-boot_内核_根文件系统(新1期_2期间的衔接)/第002节_内核自动流程分析之配置.md
+	deleted:    jz2440/【衔接1,2】006_u-boot_内核_根文件系统(新1期_2期间的衔接)/第1课-uboot分析和使用.md
+	deleted:    jz2440/移植内核.md
+	deleted:    jz2440/移植所有驱动到3 4 2内核去.md
+	deleted:    jz2440/移植最新的u-boot.md
+	deleted:    jz2440/第一期/I2C（待检查图片）.md
+	deleted:    jz2440/第一期/未上传文件.png
+	deleted:    jz2440/第一期/第003课_linux入门命令.md
+	deleted:    jz2440/第一期/第004课_vi编辑器.md
+	deleted:    jz2440/第一期/第005课_linux进阶命令.md
+	deleted:    jz2440/第一期/第006课_开发板熟悉与体验.md
+	deleted:    jz2440/第一期/第008课_第一个ARM裸板程序及引申.md
+	deleted:    jz2440/第一期/第009课_gcc和makefile .md
+	deleted:    jz2440/第一期/第018课_ADC和触摸屏（待检查图片）.md
+	deleted:    jz2440/第一期/第14课-异常和中断（待检查图片）.md
+	deleted:    jz2440/第三期/数码相框/小结/static.md
+	deleted:    jz2440/第三期/数码相框/小结/字体.md
+	deleted:    jz2440/第三期/数码相框/小结/数码相框问题.md
+	deleted:    jz2440/第三期/数码相框/小结/电子书总结 .md
+	deleted:    jz2440/第三期/数码相框/小结/结构体 .md
+	deleted:    jz2440/第三期/数码相框/挂接nfs网络文件.md
+	deleted:    jz2440/第三期/数码相框/挂载U盘.md
+	deleted:    jz2440/第三期/数码相框/第1课第2 1节_数码相框的编码方式.md
+	deleted:    jz2440/第三期/数码相框/第1课第2 2节_数码相框_字符的点阵显示.md
+	deleted:    jz2440/第三期/数码相框/第1课第2 3 1节_数码相框_freetype理论介绍.md
+	deleted:    jz2440/第三期/数码相框/第1课第2 3 4节_数码相框_在lcd上显示多行文字.md
+	deleted:    jz2440/第三期/数码相框/第1课第3 4节_数码相框_电子书之链表操作 .md
+	deleted:    jz2440/第三期/数码相框/第1课第5 1节_数码相框_使用多种输入_框架及轮循方式 .md
+	deleted:    jz2440/问题/常用命令.txt
+	deleted:    jz2440/问题/连上开发板以后上不了网的方案.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第1部分-3 1 linux中的文件IO.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第2部分-3 2 文件属性.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第3部分-3 3 获取系统信息.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第4部分-3 4 linux进程全解.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第5部分-3 5 linux中的信号.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第6部分-3 6 高级IO.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第7部分-3 7 linux线程全解.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第8部分-3 8 网络基础.md
+	deleted:    linux_app_net/linux应用编程和网络编程/第9部分-3 9 linux网络编程实践（图片未处理）.md
+	deleted:    linux_app_net/linux应用编程和网络编程/课程大纲-linux应用编程和网络编程.md
+	deleted:    linux_app_net/网络进程/OSI七层模型.md
+	deleted:    linux_app_net/网络进程/Tcpip四种模型及各层协议.md
+	deleted:    linux_app_net/网络进程/进程与线程.md
+	deleted:    othre/复旦梁永安.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	basic/
+	projects/
+	status
+	struct
+
+no changes added to commit (use "git add" and/or "git commit -a")

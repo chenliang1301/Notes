@@ -1,0 +1,56 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 2A9B-D06F
+D:.
+├─basic
+│  ├─app_net
+│  │  ├─.vscode
+│  │  ├─01.fileio
+│  │  ├─02.fileproperty
+│  │  ├─03.osinfo
+│  │  ├─04.process
+│  │  ├─05.signal
+│  │  ├─06.seniorIO
+│  │  ├─07.thread
+│  │  ├─08.net
+│  │  └─09.doc
+│  │      ├─linux应用编程和网络编程
+│  │      └─网络进程
+│  ├─c_cpp
+│  │  ├─C&C++
+│  │  ├─C++ Primer Plus
+│  │  ├─c语言进阶剖析教程
+│  │  └─C语言高级专题
+│  ├─data_strcture
+│  │  ├─.vscode
+│  │  ├─code
+│  │  │  └─ds
+│  │  └─doc
+│  │      ├─data_strcture
+│  │      │  └─Untitled Databases
+│  │      └─Untitled Databases
+│  ├─doc
+│  │  └─book
+│  │      └─CS-EmbeddedLinux-Book
+│  └─jz2440
+│      ├─【衔接1,2】006_u-boot_内核_根文件系统(新1期_2期间的衔接)
+│      ├─第一期
+│      ├─第三期
+│      │  └─数码相框
+│      │      └─小结
+│      └─问题
+├─interview
+│  ├─单元测试
+│  └─面试
+└─projects
+    └─digital_photo_frame_8.5.5_5
+        ├─debug
+        ├─display
+        ├─encoding
+        ├─file
+        ├─fonts
+        ├─include
+        ├─input
+        ├─page
+        └─render
+            ├─format
+            └─operation
